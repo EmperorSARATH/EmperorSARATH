@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Sarath!
-
 #  Welcome to my GitHub page!
 
 
