@@ -1,9 +1,8 @@
 #  Welcome to my GitHub page!
 
-
-
 I'm a software engineer who loves to build, explore, and learn new things every single day. Whether it’s backend systems with Spring Boot, crafting UIs with React or Next.js, or experimenting with Flutter for mobile apps — I enjoy bringing ideas to life through code.
 Always open to exciting freelance opportunities, collaborations, and innovative projects that push boundaries.
+
 ---
 
 ⚽ **Fun Fact**  
