@@ -2,9 +2,6 @@
 
 #  Welcome to my GitHub page!
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpmbXg3eXJxYXl4YW92aG0wdm14d29xajRveTZvbWtqM2ZwNTNndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BmzqC8YEtarJK/giphy.gif" alt="Coding GIF" width="300"/>
-</p>
 
 
 I'm a software engineer who loves to build, explore, and learn new things every single day. Whether it’s backend systems with Spring Boot, crafting UIs with React or Next.js, or experimenting with Flutter for mobile apps — I enjoy bringing ideas to life through code.
@@ -12,7 +9,17 @@ Always open to exciting freelance opportunities, collaborations, and innovative 
 ---
 
 ⚽ **Fun Fact**  
+
+<table>
+<tr>
+<td>
 When I’m not coding, you’ll probably find me on the football field — I’m as passionate about football as I am about software engineering. Teamwork, strategy, and persistence drive me both in code and in the game.
+</td>
+<td>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpmbXg3eXJxYXl4YW92aG0wdm14d29xajRveTZvbWtqM2ZwNTNndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BmzqC8YEtarJK/giphy.gif" width="150" style="border-radius: 10px;"/>
+</td>
+</tr>
+</table>
 
 ---
 
